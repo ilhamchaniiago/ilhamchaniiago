@@ -6,4 +6,4 @@ Perkenalkan nama saya Ilham Sabillah Chaniago dan saya seorang mahasiswa di IST 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/ilhamchaniiago)
 [![Tiktok](https://img.shields.io/badge/-TikTok-000?style=flat&logo=tiktok)](https://www.tiktok.com/@iamchniago)
 
-## Nice to Meet You!🙌
+## Nice to Meet You!
