@@ -7,4 +7,4 @@
 Perkenalkan nama saya Ilham Sabillah Chaniago dan saya seorang mahasiswa di IST AKPRIND YOGYAKARTA
 
 ## Untuk lebih lanjut
-- My Blogger: [ilhamchaniiago.com](https://www.instagram.com/lynxmoriarty/)
+- My Insta: [ilhamchaniiago.com](https://www.instagram.com/lynxmoriarty/)
