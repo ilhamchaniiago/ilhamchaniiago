@@ -9,7 +9,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)](https://en.wikipedia.org/wiki/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)](https://www.typescriptlang.org)
 
-I'm Sukru. Software developer working with Java, Python, JavaScript, Svelte, and GraphQL.
+Perkenalkan nama saya Ilham Sabillah Chaniago dan saya seorang mahasiswa di IST AKPRIND YOGYAKARTA
 
 ## Get in touch
 - Personal Website: [lynxmoriarty.com](https://www.lynxmoriarty.com)
