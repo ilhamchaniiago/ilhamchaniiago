@@ -7,4 +7,4 @@
 
 Perkenalkan nama saya Ilham Sabillah Chaniago dan saya seorang mahasiswa di IST AKPRIND YOGYAKARTA
 
-## Nice To Meet You!
+## Nice to Meet You!
