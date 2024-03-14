@@ -12,5 +12,5 @@
 I'm Sukru. Software developer working with Java, Python, JavaScript, Svelte, and GraphQL.
 
 ## Get in touch
-- Personal Website: [sukruuzel.com](https://www.lynxmoriarty.com)
+- Personal Website: [lynxmoriarty.com](https://www.lynxmoriarty.com)
 - LinkedIn: https://www.linkedin.com/in/sukru-uzel
