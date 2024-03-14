@@ -7,5 +7,5 @@
 Perkenalkan nama saya Ilham Sabillah Chaniago dan saya seorang mahasiswa di IST AKPRIND YOGYAKARTA
 
 ## Untuk lebih lanjut
-- Personal Website: [lynxmoriarty.com](https://www.blogger.com/profile/03787677483981283843)
+- My Blogger: [ilhamchaniiago.com](https://www.blogger.com/profile/03787677483981283843)
 - LinkedIn: https://www.linkedin.com/in/sukru-uzel
