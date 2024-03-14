@@ -1,6 +1,6 @@
 # Ilham Chaniago
 
-[![LinkedIn](https://img.shields.io/badge/Instagram-000?style=flat&logoColor=red&logo=instagram)](https://www.instagram.com/xxsontoloyo0/)
+[![LinkedIn](https://img.shields.io/badge/Instagram-000?style=flat&logoColor=red&logo=instagram)](https://www.instagram.com/lynxmoriarty/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)](https://www.github.com/ilhamchaniiago)
 [![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)](https://hub.docker.com/u/suzel)
 [![AWS](https://img.shields.io/badge/-AWS-000?&logoColor=F90&logo=Amazon-AWS)](https://aws.amazon.com)
